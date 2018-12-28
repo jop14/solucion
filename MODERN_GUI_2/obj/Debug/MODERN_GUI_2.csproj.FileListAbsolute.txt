@@ -1,0 +1,50 @@
+E:\TUT\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\bin\Debug\MODERN_GUI_2.exe.config
+E:\TUT\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.Properties.Resources.resources
+E:\TUT\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.csproj.GenerateResource.Cache
+E:\TUT\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\bin\Debug\MODERN_GUI_2.exe
+E:\TUT\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\bin\Debug\MODERN_GUI_2.pdb
+E:\TUT\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.exe
+E:\TUT\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.pdb
+E:\TUT\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.csprojResolveAssemblyReference.cache
+E:\TUT\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.Form1.resources
+E:\TUT\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.Form2.resources
+E:\TUT\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.inicio.resources
+E:\TUT\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.nuevo.resources
+D:\Programacion\TUT\Tutoriales #1\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\bin\Debug\MODERN_GUI_2.exe.config
+D:\Programacion\TUT\Tutoriales #1\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.exe
+D:\Programacion\TUT\Tutoriales #1\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.pdb
+D:\Programacion\TUT\Tutoriales #1\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\bin\Debug\MODERN_GUI_2.exe
+D:\Programacion\TUT\Tutoriales #1\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\bin\Debug\MODERN_GUI_2.pdb
+D:\Programacion\TUT\Tutoriales #1\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.csprojResolveAssemblyReference.cache
+D:\Programacion\TUT\Tutoriales #1\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.Properties.Resources.resources
+D:\Programacion\TUT\Tutoriales #1\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.csproj.GenerateResource.Cache
+D:\Programacion\TUT\Tutoriales #1\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormMantProducto.resources
+D:\Programacion\TUT\Tutoriales #1\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormMenu.resources
+D:\Programacion\TUT\Tutoriales #1\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormProductos.resources
+D:\Programacion\TUT\Tutoriales #1\PROYECTOS\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormLogo.resources
+D:\Programacion\TUT\Tutoriales #2\MODERN_GUI_2\MODERN_GUI_2\bin\Debug\MODERN_GUI_2.exe.config
+D:\Programacion\TUT\Tutoriales #2\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.exe
+D:\Programacion\TUT\Tutoriales #2\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.pdb
+D:\Programacion\TUT\Tutoriales #2\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.csprojResolveAssemblyReference.cache
+D:\Programacion\TUT\Tutoriales #2\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormMantProducto.resources
+D:\Programacion\TUT\Tutoriales #2\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormMenu.resources
+D:\Programacion\TUT\Tutoriales #2\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormProductos.resources
+D:\Programacion\TUT\Tutoriales #2\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormLogo.resources
+D:\Programacion\TUT\Tutoriales #2\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.Properties.Resources.resources
+D:\Programacion\TUT\Tutoriales #2\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.csproj.GenerateResource.Cache
+D:\Programacion\TUT\Tutoriales #2\MODERN_GUI_2\MODERN_GUI_2\bin\Debug\MODERN_GUI_2.exe
+D:\Programacion\TUT\Tutoriales #2\MODERN_GUI_2\MODERN_GUI_2\bin\Debug\MODERN_GUI_2.pdb
+D:\Programacion\TUT\Tutoriales #2\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.formventa.resources
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\bin\Debug\MODERN_GUI_2.exe.config
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.exe
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.pdb
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\bin\Debug\MODERN_GUI_2.exe
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\bin\Debug\MODERN_GUI_2.pdb
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormMantProducto.resources
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormMenu.resources
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormProductos.resources
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormLogo.resources
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.formventa.resources
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.Properties.Resources.resources
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.csproj.GenerateResource.Cache

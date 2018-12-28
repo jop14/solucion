@@ -1,0 +1,12 @@
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\bin\Release\MODERN_GUI_2.exe.config
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\bin\Release\MODERN_GUI_2.exe
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\bin\Release\MODERN_GUI_2.pdb
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Release\MODERN_GUI_2.FormMantProducto.resources
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Release\MODERN_GUI_2.FormMenu.resources
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Release\MODERN_GUI_2.FormProductos.resources
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Release\MODERN_GUI_2.FormLogo.resources
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Release\MODERN_GUI_2.formventa.resources
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Release\MODERN_GUI_2.Properties.Resources.resources
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Release\solucion_GT.csproj.GenerateResource.Cache
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Release\MODERN_GUI_2.exe
+C:\Users\Omar\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Release\MODERN_GUI_2.pdb

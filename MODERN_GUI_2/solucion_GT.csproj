@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8E87C301-6F0F-4E4E-BB17-FA838A33BE87}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MODERN_GUI_2</RootNamespace>
+    <AssemblyName>MODERN_GUI_2</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="certificados\regCer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="certificados\regCer.Designer.cs">
+      <DependentUpon>regCer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="conexion.cs" />
+    <Compile Include="certificados\frmCer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="certificados\frmCer.Designer.cs">
+      <DependentUpon>frmCer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="plantilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="plantilla.Designer.cs">
+      <DependentUpon>plantilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pruebas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pruebas.Designer.cs">
+      <DependentUpon>pruebas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gasolineras\regGaso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gasolineras\regGaso.Designer.cs">
+      <DependentUpon>regGaso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenu.designer.cs">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gasolineras\formGaso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gasolineras\formGaso.Designer.cs">
+      <DependentUpon>formGaso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogo.Designer.cs">
+      <DependentUpon>FormLogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="certificados\formCerti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="certificados\formCerti.Designer.cs">
+      <DependentUpon>formCerti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="certificados\frmCer.resx">
+      <DependentUpon>frmCer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="certificados\regCer.resx">
+      <DependentUpon>regCer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="plantilla.resx">
+      <DependentUpon>plantilla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pruebas.resx">
+      <DependentUpon>pruebas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gasolineras\regGaso.resx">
+      <DependentUpon>regGaso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenu.resx">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gasolineras\formGaso.resx">
+      <DependentUpon>formGaso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogo.resx">
+      <DependentUpon>FormLogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="certificados\formCerti.resx">
+      <DependentUpon>formCerti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoUI3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono-cliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gtss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estacion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gtssijn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="estaciones\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gasolinera.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
